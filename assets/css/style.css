@@ -55,7 +55,6 @@ a {
 .header {
   background: #1ebfc1;
 }
-
 .header.fixed {
   z-index: 1;
   position: sticky;
